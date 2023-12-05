@@ -1,0 +1,1 @@
+python mixdvae_scass.py config/cfg_dvae_vem_scass.ini
